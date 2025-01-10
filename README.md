@@ -1,0 +1,13 @@
+# DESAFIO LATAM
+## _Curso Fullstack Javascript G92_
+
+Aquí ire subiendo todos los desafios realizados para el curso G92.
+
+
+> Nota: `Esto realizado con propósitos académicos y de enseñanza. Favor no realizar copias directas del material aqui subido.`
+
+> Nota: `Cada desafio será subido a una carpeta enumerada, segun el orden a realizar.`
+
+### Desafios realizados:
+
+1. **Introducción a HTML:** Desafio 1 - Mi Curriculum Vitae en HTML.
