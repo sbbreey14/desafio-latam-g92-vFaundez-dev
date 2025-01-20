@@ -10,4 +10,5 @@ Aquí ire subiendo todos los desafios realizados para el curso G92.
 
 ### Desafios realizados:
 
-1. **Introducción a HTML:** Desafio 1 - Mi Curriculum Vitae en HTML.
+1. **Introducción a HTML:** Desafio 1: Mi Curriculum Vitae en HTML.
+2. **Introducción a HTML:** Desafio 2: Landing Page
