@@ -23,7 +23,7 @@ body {
 }
 
 header {
-  background:  url(./assets/images/banner_header2.png) right center/cover no-repeat;
+  background:  url('../images/banner_header2.png') right center/cover no-repeat;
   max-height: 400px;
   border-top: 3px double #574964;
   border-bottom: 3px double #574964;
