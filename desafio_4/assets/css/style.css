@@ -8,3 +8,12 @@
 body {
   font-family: "Roboto", serif;
 }
+
+header nav .navbar-brand img {
+  width: 100px;
+}
+
+
+footer img {
+  width: 80px;
+}
